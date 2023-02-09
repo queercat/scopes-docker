@@ -10,6 +10,7 @@ run apt-get -y install g++
 run apt-get -y install make
 run apt-get -y install cmake
 run apt-get -y install xz-utils
+run apt-get -y install libncurses5
 
 # get the repo
 run hg clone https://hg.sr.ht/~duangle/scopes 
