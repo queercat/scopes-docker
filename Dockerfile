@@ -21,6 +21,7 @@ workdir scopes
 
 run ./build.sh
 
+from alpine:latest
 # stage 1 -- pull out Scopes
 workdir scopes
 
